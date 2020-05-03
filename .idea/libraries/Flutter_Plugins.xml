@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://E:/Zeya/E-Drive/flutter sdk/flutter/.pub-cache/hosted/pub.dartlang.org/agora_rtc_engine-1.0.10" />
+      <root url="file://E:/Zeya/E-Drive/flutter sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.5" />
+      <root url="file://E:/Zeya/E-Drive/flutter sdk/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.0.0+hotfix.4" />
+      <root url="file://E:/Zeya/E-Drive/flutter sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3" />
+      <root url="file://E:/Zeya/E-Drive/flutter sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

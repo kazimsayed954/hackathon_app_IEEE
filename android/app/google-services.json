@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229242418580",
+    "firebase_url": "https://hackthecrisis-472b5.firebaseio.com",
+    "project_id": "hackthecrisis-472b5",
+    "storage_bucket": "hackthecrisis-472b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229242418580:android:261d7bb846d1ded56d0b81",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229242418580-kev8brdq1hrsa8gfc9fsvpms9b5nr0ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtb8P0sERU4zb13ZKihf0mfV7Hkg9Nj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229242418580-kev8brdq1hrsa8gfc9fsvpms9b5nr0ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
